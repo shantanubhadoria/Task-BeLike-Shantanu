@@ -6,7 +6,7 @@ Task::BeLike::Shantanu - All my default Modules in a perl installation
 
 =head1 VERSION
 
-version v0.5
+version 0.05
 
 =for :stopwords cpan testmatrix url annocpan anno bugtracker rt cpants kwalitee diff irc mailto metadata placeholders metacpan
 
