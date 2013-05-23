@@ -33,6 +33,7 @@ use JSON::XS; 2.33;
 use Log::Log4perl 1.40;
 use Moose 2.06;
 use Net::IP;
+use Net::SSLeay;
 use Perl::Critic;
 use Perl::Tidy;
 use Starman 0.30;
