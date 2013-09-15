@@ -11,7 +11,6 @@ use Acme::CPANAuthors::India;
 use Dist::Zilla::PluginBundle::SHANTANU;
 use File::UStore;
 use Pod::Weaver::PluginBundle::SHANTANU;
-use Printer::Thermal;
 
 use autodie;
 use App::cpanminus;
