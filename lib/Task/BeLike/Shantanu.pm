@@ -49,6 +49,8 @@ use Net::IP;
 use Net::SSLeay;
 use Perl::Critic;
 use Perl::Tidy;
+use Test::Pod 1.48;
+use Pod::Simple 3.28;
 use Starman 0.30;
 use YAML 0.84;
 use YAML::XS 0.38;
